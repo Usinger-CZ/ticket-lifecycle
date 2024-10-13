@@ -28,9 +28,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+![Screenshot (26)](https://github.com/user-attachments/assets/9f0db9a3-f826-42c9-8b00-3b67a55d98d2)
+
 <p>
 A new ticket has been generated following a report from end user Karen Stafford regarding a business-critical outage. She provided a brief description of the issue but requires further investigation to determine the root cause and implement a resolution.
 </p>
