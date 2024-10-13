@@ -31,7 +31,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 ![Screenshot (26)](https://github.com/user-attachments/assets/9f0db9a3-f826-42c9-8b00-3b67a55d98d2)
 
 <p>
-A new ticket has been generated following a report from end user Karen Stafford regarding a business-critical outage. She provided a brief description of the issue but requires further investigation to determine the root cause and implement a resolution.
+A new ticket has been generated following a report from end user Karen Stafford regarding a business-critical outage.  She provided a brief description of the issue but requires further investigation to determine the root cause and implement a resolution.
 </p>
 <br />
 
@@ -47,14 +47,14 @@ John from the Support Department has received the ticket and promptly assigned i
 
 
 <p>
-As the System Administrator, I, Jane, claimed the ticket and immediately escalated its priority to "Emergency," adjusting the SLA to Severity-A (Sev-A) due to the critical nature of the issue. After reviewing the details, I reached out to the customer to communicate my initial diagnosis of the problem and informed them that I have a potential solution in progress.
+As the System Administrator, Jane claimed the ticket and immediately escalated its priority to 'Emergency,' adjusting the SLA to Sev-A due to the critical nature of the issue.  After reviewing the details, she contacted the customer to share her initial diagnosis and informed them that a potential solution is in progress.
 </p>
 <br />
 
+![Screenshot (32)](https://github.com/user-attachments/assets/3bbefe41-7236-44cf-8ef2-6256c8026de7) ![Screenshot (35)](https://github.com/user-attachments/assets/7d247536-fc03-42f0-aebb-4f3d701fb4bf)
+
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+After Jane validates her initial diagnosis and executes her proposed solution, she promptly communicates with the customer to notify them that the issue has been resolved.  Subsequently, she concludes the ticket by providing a concise summary of the solution executed. 
 </p>
 <br />
