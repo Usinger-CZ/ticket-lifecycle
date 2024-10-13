@@ -35,11 +35,11 @@ A new ticket has been generated following a report from end user Karen Stafford 
 </p>
 <br />
 
+![Screenshot (28)](https://github.com/user-attachments/assets/cf56dac9-5a5d-4dda-b248-7ddd761f80eb) ![Screenshot (29)](https://github.com/user-attachments/assets/304da818-21e1-46c1-ab70-2ea1ec8d2032)
+
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+John from the Support Department has received the ticket and promptly assigned it to the appropriate team for further action. Additionally, he left an internal note recommending that the ticket's priority and SLA be escalated, given the potential impact on business operations.
 </p>
 <br />
 
