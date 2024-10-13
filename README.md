@@ -43,11 +43,11 @@ John from the Support Department has received the ticket and promptly assigned i
 </p>
 <br />
 
+![Screenshot (30)](https://github.com/user-attachments/assets/29d81207-fe17-4221-b95a-d6ff834805f4) ![Screenshot (31)](https://github.com/user-attachments/assets/9f1aa7d6-b761-4200-9fbb-8fa04c9870fb)
+
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+As the System Administrator, I, Jane, claimed the ticket and immediately escalated its priority to "Emergency," adjusting the SLA to Severity-A (Sev-A) due to the critical nature of the issue. After reviewing the details, I reached out to the customer to communicate my initial diagnosis of the problem and informed them that I have a potential solution in progress.
 </p>
 <br />
 
